@@ -1,0 +1,15 @@
+C:\Users\JuanU\source\repos\NotasApp\NotasApp\bin\Debug\net8.0\NotasApp.exe
+C:\Users\JuanU\source\repos\NotasApp\NotasApp\bin\Debug\net8.0\NotasApp.deps.json
+C:\Users\JuanU\source\repos\NotasApp\NotasApp\bin\Debug\net8.0\NotasApp.runtimeconfig.json
+C:\Users\JuanU\source\repos\NotasApp\NotasApp\bin\Debug\net8.0\NotasApp.dll
+C:\Users\JuanU\source\repos\NotasApp\NotasApp\bin\Debug\net8.0\NotasApp.pdb
+C:\Users\JuanU\source\repos\NotasApp\NotasApp\obj\Debug\net8.0\NotasApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanU\source\repos\NotasApp\NotasApp\obj\Debug\net8.0\NotasApp.AssemblyInfoInputs.cache
+C:\Users\JuanU\source\repos\NotasApp\NotasApp\obj\Debug\net8.0\NotasApp.AssemblyInfo.cs
+C:\Users\JuanU\source\repos\NotasApp\NotasApp\obj\Debug\net8.0\NotasApp.csproj.CoreCompileInputs.cache
+C:\Users\JuanU\source\repos\NotasApp\NotasApp\obj\Debug\net8.0\NotasApp.sourcelink.json
+C:\Users\JuanU\source\repos\NotasApp\NotasApp\obj\Debug\net8.0\NotasApp.dll
+C:\Users\JuanU\source\repos\NotasApp\NotasApp\obj\Debug\net8.0\refint\NotasApp.dll
+C:\Users\JuanU\source\repos\NotasApp\NotasApp\obj\Debug\net8.0\NotasApp.pdb
+C:\Users\JuanU\source\repos\NotasApp\NotasApp\obj\Debug\net8.0\NotasApp.genruntimeconfig.cache
+C:\Users\JuanU\source\repos\NotasApp\NotasApp\obj\Debug\net8.0\ref\NotasApp.dll
