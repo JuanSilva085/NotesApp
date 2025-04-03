@@ -36,7 +36,8 @@ dotnet run
 -----------------------------------------------------------------------------------------------------------------
 
 🛠️ Funcionalidades
-                                                                                                                                                                                                           Adicionar Nota: Permite que o usuário adicione uma nova nota com título e conteúdo.
+                                                                                                                                                                                      
+Adicionar Nota: Permite que o usuário adicione uma nova nota com título e conteúdo.
 
 Visualizar Notas: Exibe todas as notas cadastradas no sistema.
 
