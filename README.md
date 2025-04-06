@@ -47,3 +47,11 @@ Excluir Nota: Exclui uma nota do sistema pelo título.
 
 Sair: Encerrar o aplicativo.
 
+-----------------------------------------------------------------------------------------------------------------
+
+🛠️ Tecnologias Utilizadas
+
+
+
+
+
