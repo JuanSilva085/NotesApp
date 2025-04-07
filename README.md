@@ -52,6 +52,7 @@ Sair: Encerrar o aplicativo.
 🛠️ Tecnologias Utilizadas
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 
 
 
